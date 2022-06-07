@@ -1,7 +1,11 @@
 body{
-    background:#447825;
+    background:#252525;
 }
 
 .content{
     text-align: center;
+    color: white;
+    margin: 20rem 0;
+    font-size: 2rem;
+    font-family: monospace;
 }
